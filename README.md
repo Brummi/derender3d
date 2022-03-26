@@ -1,5 +1,5 @@
 # De-rendering 3D Objects in the Wild
-[**Paper**](https://arxiv.org/abs/2201.02279) |  [**Video** (Soon)](#) | [**Project Page**](https://www.robots.ox.ac.uk/~vgg/research/derender3d/)
+[**Paper**](https://arxiv.org/abs/2201.02279) |  [**Video** (Soon)](#) | [**Project Page**](https://www.robots.ox.ac.uk/~vgg/research/derender3d/) | [**COSy Dataset**](https://www.robots.ox.ac.uk/~vgg/research/derender3d/data/COSy.tar)
 
 This repository is the official implementation of the paper:
 
