@@ -1,0 +1,7 @@
+__pycache__
+results
+*.zip
+scripts/out
+.idea
+*.sbatch
+datasets
