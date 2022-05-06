@@ -1,3 +1,4 @@
+
 # De-rendering 3D Objects in the Wild
 [**Paper**](https://arxiv.org/abs/2201.02279) |  [**Video** (Soon)](#) | [**Project Page**](https://www.robots.ox.ac.uk/~vgg/research/derender3d/)
 
@@ -10,7 +11,8 @@ This is the official implementation for the CVPR 2022 paper:
 > 
 > [**CVPR 2022** (arXiv)](https://arxiv.org/abs/2201.02279)
 
-<a href="https://www.robots.ox.ac.uk/~vgg/research/derender3d/"><div style="text-align:center"><img src="./resources/thumbnail.gif"/></div></a>
+https://user-images.githubusercontent.com/16351108/167137537-c3ae52ae-aaac-41af-afcb-5aa282b415cd.mp4
+
 
 A method for de-rendering a 3D object from a single image into shape, material, and lighting, that is trained in a weakly-supervised fashion relying only on rough shape estimates. 
 
