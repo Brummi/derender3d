@@ -1,6 +1,6 @@
 
 # De-rendering 3D Objects in the Wild
-[**Paper**](https://arxiv.org/abs/2201.02279) |  [**Video** (Soon)](#) | [**Project Page**](https://www.robots.ox.ac.uk/~vgg/research/derender3d/)
+[**Paper**](https://arxiv.org/abs/2201.02279) |  [**Video**](https://youtu.be/IV5orKpwh80) | [**Project Page**](https://www.robots.ox.ac.uk/~vgg/research/derender3d/)
 
 This is the official implementation for the CVPR 2022 paper:
 
